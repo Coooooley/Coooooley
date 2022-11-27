@@ -1,4 +1,4 @@
-### Hi there, I'm [Cooley.](https://www.cnblogs.com/cooley/) 👋
+### Hi there, I'm [Cooley](https://www.cnblogs.com/cooley/). 👋
 
 I'm an embedded software engineer.
 
