@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### About me
 
-- Automotive electronics industry
+- automotive electronics industry
 
-- My gitee : https://gitee.com/Coooooley/
-- My github: https://github.com/Coooooley/
-- My blog  : https://www.cnblogs.com/cooley/
+- my gitee : https://gitee.com/Coooooley/
+- my github: https://github.com/Coooooley/
+- my blog  : https://www.cnblogs.com/cooley/
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
