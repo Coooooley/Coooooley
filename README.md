@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - automotive electronics industry
 
-- my gitee : https://gitee.com/Coooooley/
-- my github: https://github.com/Coooooley/
-- my blog  : https://www.cnblogs.com/Coooooley/
+- my gitee : https://gitee.com/Coooooley
+- my github: https://github.com/Coooooley
+- my blog  : https://www.cnblogs.com/Coooooley
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
