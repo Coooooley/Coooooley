@@ -29,7 +29,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coooooley&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Cooley github stats" width="480" height="170" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coooooley&layout=compact&theme=material-palenight" alt="Top Langs" width="240" height="170" />
-</a>
