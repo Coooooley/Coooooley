@@ -1,4 +1,4 @@
-### Hi there, I'm [Cooley](https://www.cnblogs.com/cooley/). 👋
+### Hi there, I'm [Cooley Chen](https://www.cnblogs.com/cooley/). 👋
 
 I'm an embedded software engineer.
 
@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - automotive electronics industry
 
 - my gitee : https://gitee.com/Coooooley
+<!--
 - my github: https://github.com/Coooooley
+-->
 - my blog  : https://www.cnblogs.com/Coooooley
 
 
